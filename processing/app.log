@@ -1,0 +1,471 @@
+2021-10-21 09:33:47,866 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 09:33:51,984 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 09:33:51,985 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 09:33:52,864 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 09:33:56,964 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 09:33:56,964 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 09:33:57,868 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 09:34:01,985 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 09:34:01,986 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 10:28:09,153 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 10:28:13,267 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 10:28:13,267 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 10:30:07,436 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 10:30:11,535 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 10:30:11,535 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 10:30:12,433 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 10:30:16,513 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 10:30:16,513 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 10:30:17,446 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 10:30:21,551 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 10:30:21,551 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 11:23:17,214 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 11:23:21,310 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 11:23:21,310 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 11:23:22,222 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 11:23:26,341 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 11:23:26,341 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 11:23:32,272 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 11:23:36,375 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 11:23:36,375 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-21 11:23:37,276 - basicLogger - INFO - Start Periodic Processing
+2021-10-21 11:23:41,357 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-21 11:23:41,357 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-26 11:44:10,026 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 11:44:14,155 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-26 11:44:14,156 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-26 11:44:15,026 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 11:44:19,137 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-26 11:44:19,138 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-26 17:22:22,922 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:22:27,926 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:22:32,918 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:22:37,918 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:22:47,867 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:23:14,302 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:23:18,411 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-26 17:23:18,411 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-26 17:23:19,299 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:23:23,407 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-26 17:23:23,408 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-26 17:23:30,297 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:23:34,394 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-26 17:23:34,395 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-26 17:26:41,295 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:26:45,512 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-26T17:23:30Z returns 0 results
+2021-10-26 17:26:45,513 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-26T17:23:30Z returns 0 results
+2021-10-26 17:26:46,300 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:26:50,411 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-26T17:26:41Z returns 0 results
+2021-10-26 17:26:50,411 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-26T17:26:41Z returns 0 results
+2021-10-26 17:26:56,776 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:27:00,865 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-26T17:26:46Z returns 0 results
+2021-10-26 17:27:00,865 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-26T17:26:46Z returns 0 results
+2021-10-26 17:27:01,790 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:27:05,907 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-26T17:26:56Z returns 0 results
+2021-10-26 17:27:05,907 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-26T17:26:56Z returns 0 results
+2021-10-26 17:27:06,779 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:27:10,888 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-26T17:27:01Z returns 0 results
+2021-10-26 17:27:10,888 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-26T17:27:01Z returns 0 results
+2021-10-26 17:27:11,787 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:27:15,896 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-26T17:27:06Z returns 0 results
+2021-10-26 17:27:15,896 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-26T17:27:06Z returns 0 results
+2021-10-26 17:27:16,772 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:27:20,897 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-26T17:27:11Z returns 0 results
+2021-10-26 17:27:20,897 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-26T17:27:11Z returns 0 results
+2021-10-26 17:27:21,782 - basicLogger - INFO - Start Periodic Processing
+2021-10-26 17:27:25,900 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-26T17:27:16Z returns 0 results
+2021-10-26 17:27:25,901 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-26T17:27:16Z returns 0 results
+2021-10-26 17:27:26,776 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:13:56,558 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:00,760 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-26T17:27:21Z returns 0 results
+2021-10-27 17:14:00,760 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-26T17:27:21Z returns 0 results
+2021-10-27 17:14:01,557 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:05,668 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:13:56Z returns 0 results
+2021-10-27 17:14:05,668 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:13:56Z returns 0 results
+2021-10-27 17:14:06,550 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:10,643 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:01Z returns 0 results
+2021-10-27 17:14:10,643 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:01Z returns 0 results
+2021-10-27 17:14:11,543 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:15,666 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:06Z returns 0 results
+2021-10-27 17:14:15,666 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:06Z returns 0 results
+2021-10-27 17:14:16,551 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:20,651 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:11Z returns 0 results
+2021-10-27 17:14:20,651 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:11Z returns 0 results
+2021-10-27 17:14:21,546 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:25,641 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:16Z returns 0 results
+2021-10-27 17:14:25,641 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:16Z returns 0 results
+2021-10-27 17:14:26,541 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:30,647 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:21Z returns 0 results
+2021-10-27 17:14:30,648 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:21Z returns 0 results
+2021-10-27 17:14:31,554 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:35,673 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:26Z returns 0 results
+2021-10-27 17:14:35,673 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:26Z returns 0 results
+2021-10-27 17:14:36,542 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:40,653 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:31Z returns 0 results
+2021-10-27 17:14:40,653 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:31Z returns 0 results
+2021-10-27 17:14:41,544 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:45,653 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:36Z returns 0 results
+2021-10-27 17:14:45,653 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:36Z returns 0 results
+2021-10-27 17:14:46,550 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:50,674 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:41Z returns 0 results
+2021-10-27 17:14:50,675 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:41Z returns 0 results
+2021-10-27 17:14:51,547 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:14:55,657 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:46Z returns 0 results
+2021-10-27 17:14:55,658 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:46Z returns 0 results
+2021-10-27 17:14:56,555 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:15:00,648 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:51Z returns 0 results
+2021-10-27 17:15:00,648 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:51Z returns 0 results
+2021-10-27 17:15:01,548 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:15:05,650 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:14:56Z returns 0 results
+2021-10-27 17:15:05,650 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:14:56Z returns 0 results
+2021-10-27 17:15:06,547 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:15:10,667 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:15:01Z returns 0 results
+2021-10-27 17:15:10,667 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:15:01Z returns 0 results
+2021-10-27 17:15:11,553 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:15:15,664 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:15:06Z returns 0 results
+2021-10-27 17:15:15,664 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:15:06Z returns 0 results
+2021-10-27 17:15:16,554 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:15:20,681 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:15:11Z returns 0 results
+2021-10-27 17:15:20,682 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:15:11Z returns 0 results
+2021-10-27 17:15:21,552 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:15:25,676 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:15:16Z returns 0 results
+2021-10-27 17:15:25,677 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:15:16Z returns 0 results
+2021-10-27 17:15:26,552 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:15:31,199 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:15:21Z returns 0 results
+2021-10-27 17:15:31,199 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:15:21Z returns 0 results
+2021-10-27 17:50:01,851 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:50:07,624 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-27 17:50:07,624 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-27 17:50:11,855 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:50:16,695 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-27 17:50:16,696 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-27 17:50:16,868 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:50:21,768 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-27 17:50:21,768 - basicLogger - ERROR - Completed Order History did not get 200 response code
+2021-10-27 17:50:21,861 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:50:26,089 - basicLogger - ERROR - Customer Order History did not get 200 response code
+2021-10-27 17:50:26,868 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:50:31,849 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:50:35,982 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:50:16Z returns 13 results
+2021-10-27 17:50:42,906 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:50:47,016 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:50:16Z returns 13 results
+2021-10-27 17:50:47,912 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:50:52,045 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:50:16Z returns 13 results
+2021-10-27 17:50:52,906 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:50:57,013 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:50:16Z returns 13 results
+2021-10-27 17:50:57,914 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:51:02,011 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:50:16Z returns 13 results
+2021-10-27 17:51:02,900 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:51:07,023 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:50:16Z returns 13 results
+2021-10-27 17:51:07,896 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:51:12,011 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:50:16Z returns 13 results
+2021-10-27 17:54:50,651 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:54:55,664 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:55:00,650 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:55:05,637 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:55:10,645 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:55:15,646 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:58:08,366 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:58:13,358 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:59:39,790 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:59:44,791 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 17:59:55,566 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:00:00,558 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:09:42,713 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:09:46,837 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T17:50:16Z returns 0 results
+2021-10-27 18:09:46,837 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T17:50:16Z returns 0 results
+2021-10-27 18:09:47,719 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:09:52,703 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:12:03,036 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:20:08,277 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:21:23,697 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:21:28,705 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:21:33,703 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:21:38,712 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:21:43,701 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:21:48,711 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:21:53,705 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:21:58,711 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:03,699 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:11,928 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:16,926 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:21,933 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:26,931 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:31,916 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:36,930 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:41,932 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:46,930 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:51,917 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:22:56,920 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:23:01,928 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:23:06,920 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:23:11,933 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:23:16,924 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:23:21,920 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:23:26,917 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:25:57,080 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:26:02,086 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:26:07,093 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:28:38,853 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:28:43,855 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:29:26,626 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:29:30,782 - basicLogger - INFO - Query for getting Customer Order History after 2018-03-12T10:12:45Z returns 13 results
+2021-10-27 18:29:30,782 - basicLogger - INFO - Query for getting Completed Order History after 2018-03-12T10:12:45Z returns 14 results
+2021-10-27 18:29:31,630 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:29:35,741 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T18:29:26Z returns 0 results
+2021-10-27 18:29:35,742 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T18:29:26Z returns 0 results
+2021-10-27 18:29:36,623 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:29:40,728 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T18:29:31Z returns 0 results
+2021-10-27 18:29:40,729 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T18:29:31Z returns 0 results
+2021-10-27 18:29:41,625 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:29:45,731 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T18:29:36Z returns 0 results
+2021-10-27 18:29:45,731 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T18:29:36Z returns 0 results
+2021-10-27 18:29:46,628 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:29:50,721 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T18:29:41Z returns 0 results
+2021-10-27 18:29:50,722 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T18:29:41Z returns 0 results
+2021-10-27 18:29:51,622 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:29:55,726 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T18:29:46Z returns 0 results
+2021-10-27 18:29:55,726 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T18:29:46Z returns 0 results
+2021-10-27 18:29:56,634 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:30:00,760 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T18:29:51Z returns 0 results
+2021-10-27 18:30:00,760 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T18:29:51Z returns 0 results
+2021-10-27 18:30:01,627 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:30:05,776 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T18:29:56Z returns 0 results
+2021-10-27 18:30:05,776 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T18:29:56Z returns 0 results
+2021-10-27 18:30:06,626 - basicLogger - INFO - Start Periodic Processing
+2021-10-27 18:30:10,727 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T18:30:01Z returns 0 results
+2021-10-27 18:30:10,727 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T18:30:01Z returns 0 results
+2021-10-28 09:15:59,747 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:16:03,982 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-27T18:30:06Z returns 0 results
+2021-10-28 09:16:03,983 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-27T18:30:06Z returns 0 results
+2021-10-28 09:37:33,091 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:37:37,233 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T09:15:59Z returns 0 results
+2021-10-28 09:37:37,234 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T09:15:59Z returns 1 results
+2021-10-28 09:37:38,100 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:37:42,218 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T09:37:33Z returns 0 results
+2021-10-28 09:37:42,219 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T09:37:33Z returns 0 results
+2021-10-28 09:37:43,090 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:37:47,226 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T09:37:38Z returns 0 results
+2021-10-28 09:37:47,227 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T09:37:38Z returns 0 results
+2021-10-28 09:37:48,092 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:37:52,236 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T09:37:43Z returns 0 results
+2021-10-28 09:37:52,236 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T09:37:43Z returns 0 results
+2021-10-28 09:40:41,809 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:40:45,942 - basicLogger - INFO - Query for getting Customer Order History after 2016-10-28T09:37:48Z returns 14 results
+2021-10-28 09:40:45,943 - basicLogger - INFO - Query for getting Completed Order History after 2016-10-28T09:37:48Z returns 15 results
+2021-10-28 09:40:46,823 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:40:50,975 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T09:40:41Z returns 0 results
+2021-10-28 09:40:50,975 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T09:40:41Z returns 0 results
+2021-10-28 09:40:51,812 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:40:55,935 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T09:40:46Z returns 0 results
+2021-10-28 09:40:55,935 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T09:40:46Z returns 0 results
+2021-10-28 09:40:56,812 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:41:00,950 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T09:40:51Z returns 0 results
+2021-10-28 09:41:00,950 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T09:40:51Z returns 0 results
+2021-10-28 09:41:01,821 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:41:05,941 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T09:40:56Z returns 0 results
+2021-10-28 09:41:05,942 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T09:40:56Z returns 0 results
+2021-10-28 09:41:06,823 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 09:41:10,962 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T09:41:01Z returns 0 results
+2021-10-28 09:41:10,962 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T09:41:01Z returns 0 results
+2021-10-28 11:03:18,655 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:03:22,943 - basicLogger - INFO - Query for getting Customer Order History after 2016-12-15T09:41:06Z returns 14 results
+2021-10-28 11:03:22,943 - basicLogger - INFO - Query for getting Completed Order History after 2016-12-15T09:41:06Z returns 15 results
+2021-10-28 11:03:23,644 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:03:27,766 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:03:18Z returns 0 results
+2021-10-28 11:03:27,766 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:03:18Z returns 0 results
+2021-10-28 11:03:28,649 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:03:32,793 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:03:23Z returns 0 results
+2021-10-28 11:03:32,793 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:03:23Z returns 0 results
+2021-10-28 11:03:33,643 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:03:37,773 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:03:28Z returns 0 results
+2021-10-28 11:03:37,773 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:03:28Z returns 0 results
+2021-10-28 11:03:38,655 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:03:42,811 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:03:33Z returns 0 results
+2021-10-28 11:03:42,811 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:03:33Z returns 0 results
+2021-10-28 11:03:43,646 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:03:47,798 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:03:38Z returns 0 results
+2021-10-28 11:03:47,799 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:03:38Z returns 0 results
+2021-10-28 11:03:48,649 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:03:52,811 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:03:43Z returns 0 results
+2021-10-28 11:03:52,811 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:03:43Z returns 0 results
+2021-10-28 11:03:53,647 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:03:57,779 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:03:48Z returns 0 results
+2021-10-28 11:03:57,779 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:03:48Z returns 0 results
+2021-10-28 11:03:58,644 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:04:02,795 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:03:53Z returns 0 results
+2021-10-28 11:04:02,796 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:03:53Z returns 0 results
+2021-10-28 11:04:03,652 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:04:07,818 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:03:58Z returns 0 results
+2021-10-28 11:04:07,819 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:03:58Z returns 0 results
+2021-10-28 11:04:08,660 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:04:12,818 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:04:03Z returns 0 results
+2021-10-28 11:04:12,818 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:04:03Z returns 0 results
+2021-10-28 11:04:13,644 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:04:17,775 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:04:08Z returns 0 results
+2021-10-28 11:04:17,775 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:04:08Z returns 0 results
+2021-10-28 11:04:18,646 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:04:22,762 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:04:13Z returns 0 results
+2021-10-28 11:04:22,762 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:04:13Z returns 0 results
+2021-10-28 11:04:23,646 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:04:27,783 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:04:18Z returns 0 results
+2021-10-28 11:04:27,783 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:04:18Z returns 0 results
+2021-10-28 11:04:28,644 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:04:32,786 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:04:23Z returns 0 results
+2021-10-28 11:04:32,786 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:04:23Z returns 0 results
+2021-10-28 11:04:33,652 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:04:37,810 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:04:28Z returns 0 results
+2021-10-28 11:04:37,811 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:04:28Z returns 0 results
+2021-10-28 11:06:04,946 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:09,100 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:04:33Z returns 0 results
+2021-10-28 11:06:09,100 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:04:33Z returns 0 results
+2021-10-28 11:06:09,950 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:14,095 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:04Z returns 0 results
+2021-10-28 11:06:14,096 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:04Z returns 0 results
+2021-10-28 11:06:14,949 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:19,091 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:09Z returns 0 results
+2021-10-28 11:06:19,091 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:09Z returns 0 results
+2021-10-28 11:06:19,946 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:24,067 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:14Z returns 0 results
+2021-10-28 11:06:24,067 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:14Z returns 0 results
+2021-10-28 11:06:24,947 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:29,099 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:19Z returns 0 results
+2021-10-28 11:06:29,100 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:19Z returns 0 results
+2021-10-28 11:06:29,947 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:34,080 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:24Z returns 0 results
+2021-10-28 11:06:34,081 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:24Z returns 0 results
+2021-10-28 11:06:34,952 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:39,090 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:29Z returns 0 results
+2021-10-28 11:06:39,091 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:29Z returns 0 results
+2021-10-28 11:06:39,939 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:44,066 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:34Z returns 0 results
+2021-10-28 11:06:44,066 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:34Z returns 0 results
+2021-10-28 11:06:44,944 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:49,166 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:39Z returns 0 results
+2021-10-28 11:06:49,167 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:39Z returns 0 results
+2021-10-28 11:06:49,940 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:54,083 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:44Z returns 0 results
+2021-10-28 11:06:54,084 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:44Z returns 0 results
+2021-10-28 11:06:54,937 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:06:59,096 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:49Z returns 0 results
+2021-10-28 11:06:59,096 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:49Z returns 0 results
+2021-10-28 11:06:59,948 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:04,101 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:54Z returns 0 results
+2021-10-28 11:07:04,101 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:54Z returns 0 results
+2021-10-28 11:07:04,951 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:09,075 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:06:59Z returns 0 results
+2021-10-28 11:07:09,075 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:06:59Z returns 0 results
+2021-10-28 11:07:09,944 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:14,076 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:07:04Z returns 0 results
+2021-10-28 11:07:14,078 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:07:04Z returns 0 results
+2021-10-28 11:07:14,940 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:19,089 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:07:09Z returns 0 results
+2021-10-28 11:07:19,090 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:07:09Z returns 0 results
+2021-10-28 11:07:19,942 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:24,074 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:07:14Z returns 0 results
+2021-10-28 11:07:24,074 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:07:14Z returns 0 results
+2021-10-28 11:07:24,941 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:29,094 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:07:19Z returns 0 results
+2021-10-28 11:07:29,094 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:07:19Z returns 0 results
+2021-10-28 11:07:29,945 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:34,079 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:07:24Z returns 0 results
+2021-10-28 11:07:34,079 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:07:24Z returns 0 results
+2021-10-28 11:07:34,949 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:39,102 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:07:29Z returns 0 results
+2021-10-28 11:07:39,102 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:07:29Z returns 0 results
+2021-10-28 11:07:39,954 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:44,095 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:07:34Z returns 0 results
+2021-10-28 11:07:44,095 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:07:34Z returns 0 results
+2021-10-28 11:07:44,939 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:07:49,075 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:07:39Z returns 0 results
+2021-10-28 11:07:49,075 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:07:39Z returns 0 results
+2021-10-28 11:09:39,100 - basicLogger - INFO - Receive Get Current Statistics request
+2021-10-28 11:09:39,102 - basicLogger - DEBUG - {"num_cust_orders_readings": 14, "num_comp_orders_readings": 15, "num_product_readings": 462, "max_product_readings": 86, "last_updated": "2021-10-28T11:07:44Z"}
+2021-10-28 11:09:39,102 - basicLogger - INFO - End of Get Current Statistics request
+2021-10-28 11:09:39,466 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:09:43,613 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:07:44Z returns 0 results
+2021-10-28 11:09:43,614 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:07:44Z returns 0 results
+2021-10-28 11:09:44,470 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:09:48,630 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:09:39Z returns 0 results
+2021-10-28 11:09:48,630 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:09:39Z returns 0 results
+2021-10-28 11:09:49,467 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:09:53,606 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:09:44Z returns 0 results
+2021-10-28 11:09:53,607 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:09:44Z returns 0 results
+2021-10-28 11:09:54,457 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:09:58,623 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:09:49Z returns 0 results
+2021-10-28 11:09:58,624 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:09:49Z returns 0 results
+2021-10-28 11:09:59,460 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:03,586 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:09:54Z returns 0 results
+2021-10-28 11:10:03,586 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:09:54Z returns 0 results
+2021-10-28 11:10:04,467 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:08,604 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:09:59Z returns 0 results
+2021-10-28 11:10:08,604 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:09:59Z returns 0 results
+2021-10-28 11:10:09,471 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:13,615 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:04Z returns 0 results
+2021-10-28 11:10:13,616 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:04Z returns 0 results
+2021-10-28 11:10:14,457 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:18,594 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:09Z returns 0 results
+2021-10-28 11:10:18,595 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:09Z returns 0 results
+2021-10-28 11:10:19,461 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:23,586 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:14Z returns 0 results
+2021-10-28 11:10:23,586 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:14Z returns 0 results
+2021-10-28 11:10:24,465 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:28,593 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:19Z returns 0 results
+2021-10-28 11:10:28,593 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:19Z returns 0 results
+2021-10-28 11:10:29,473 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:33,603 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:24Z returns 0 results
+2021-10-28 11:10:33,603 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:24Z returns 0 results
+2021-10-28 11:10:34,452 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:38,551 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:29Z returns 0 results
+2021-10-28 11:10:38,551 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:29Z returns 0 results
+2021-10-28 11:10:39,465 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:43,579 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:34Z returns 0 results
+2021-10-28 11:10:43,579 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:34Z returns 0 results
+2021-10-28 11:10:44,478 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:48,596 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:39Z returns 0 results
+2021-10-28 11:10:48,596 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:39Z returns 0 results
+2021-10-28 11:10:49,467 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:53,565 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:44Z returns 0 results
+2021-10-28 11:10:53,565 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:44Z returns 0 results
+2021-10-28 11:10:54,463 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:10:58,583 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:49Z returns 0 results
+2021-10-28 11:10:58,583 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:49Z returns 0 results
+2021-10-28 11:10:59,466 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:03,573 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:54Z returns 0 results
+2021-10-28 11:11:03,573 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:54Z returns 0 results
+2021-10-28 11:11:04,457 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:08,526 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:10:59Z returns 0 results
+2021-10-28 11:11:08,526 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:10:59Z returns 0 results
+2021-10-28 11:11:09,460 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:13,573 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:04Z returns 0 results
+2021-10-28 11:11:13,573 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:04Z returns 0 results
+2021-10-28 11:11:14,453 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:18,563 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:09Z returns 0 results
+2021-10-28 11:11:18,563 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:09Z returns 0 results
+2021-10-28 11:11:19,455 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:23,553 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:14Z returns 0 results
+2021-10-28 11:11:23,553 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:14Z returns 0 results
+2021-10-28 11:11:24,455 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:28,570 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:19Z returns 0 results
+2021-10-28 11:11:28,570 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:19Z returns 0 results
+2021-10-28 11:11:29,452 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:33,578 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:24Z returns 0 results
+2021-10-28 11:11:33,578 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:24Z returns 0 results
+2021-10-28 11:11:34,459 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:38,576 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:29Z returns 0 results
+2021-10-28 11:11:38,576 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:29Z returns 0 results
+2021-10-28 11:11:39,457 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:43,549 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:34Z returns 0 results
+2021-10-28 11:11:43,549 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:34Z returns 0 results
+2021-10-28 11:11:44,457 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:48,565 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:39Z returns 0 results
+2021-10-28 11:11:48,565 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:39Z returns 0 results
+2021-10-28 11:11:49,465 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:53,578 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:44Z returns 0 results
+2021-10-28 11:11:53,578 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:44Z returns 0 results
+2021-10-28 11:11:54,467 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:11:58,592 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:49Z returns 0 results
+2021-10-28 11:11:58,593 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:49Z returns 0 results
+2021-10-28 11:11:59,460 - basicLogger - INFO - Start Periodic Processing
+2021-10-28 11:12:03,565 - basicLogger - INFO - Query for getting Customer Order History after 2021-10-28T11:11:54Z returns 0 results
+2021-10-28 11:12:03,567 - basicLogger - INFO - Query for getting Completed Order History after 2021-10-28T11:11:54Z returns 0 results
