@@ -71,49 +71,10 @@ def get_completed_order_readings(timestamp):
     return results_list, 200
 
 
-def customer_orders_reading(body):
-    session = DB_SESSION()
-
-    cust_order = CustomerOrder(
-        body['order_id'],
-        body['device_id'],
-        body['releaseDate'],
-        body['product']['num_of_prduct'],
-        body['product']['product_name'])
-
-    session.add(cust_order)
-
-    session.commit()
-    session.close()
-
-    logger.info("Connecting to DB.Hostname: %s, Port: %s" % (db_info["hostname"], db_info["port"]))
-
-    return NoContent, 201
-
-
-def completed_orders_reading(body):
-    session = DB_SESSION()
-
-    comp_order = CompletedOrder(
-        body['order_id'],
-        body['completedDate'],
-        body['device_id'],
-        body['status'])
-
-    session.add(comp_order)
-
-    session.commit()
-    session.close()
-
-    logger.info("Connecting to DB.Hostname: %s, Port: %s" % (db_info["hostname"], db_info["port"]))
-
-    return NoContent, 201
-
-
 def process_messages():
     """ Process event messages """
-    hostname = "%s:%d" % (kafka_info["hostname"], kafka_info["port"])
-    client = KafkaClient(hosts=hostname)
+
+    client = KafkaClient(hosts="%s:%d" % (kafka_info["hostname"], kafka_info["port"]))
     topic = client.topics[str.encode(kafka_info["topic"])]
 
     consumer = topic.get_simple_consumer(consumer_group=b'event_group',
@@ -128,21 +89,33 @@ def process_messages():
         payload = msg["payload"]
 
         if msg["type"] == "customer_orders":
+            session = DB_SESSION()
+
             cust_order = CustomerOrder(
                 payload['order_id'],
                 payload['device_id'],
                 payload['releaseDate'],
                 payload['product']['num_of_prduct'],
                 payload['product']['product_name'])
-            return cust_order
+
+            session.add(cust_order)
+
+            session.commit()
+            session.close()
 
         elif msg["type"] == "completed_orders":
+            session = DB_SESSION()
+
             comp_order = CompletedOrder(
                 payload['order_id'],
                 payload['completedDate'],
                 payload['device_id'],
                 payload['status'])
-            return comp_order
+
+            session.add(comp_order)
+
+            session.commit()
+            session.close()
 
         consumer.commit_offsets()
 

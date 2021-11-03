@@ -21,45 +21,45 @@ with open('log_conf.yml', 'r') as f:
 logger = logging.getLogger('basicLogger')
 
 
-def customer_orders_reading(reading):
+def customer_orders_reading(body):
     logger.info("Received event %s request with a unique id of %s"
-                % ("customer orders", reading["order_id"]))
+                % ("customer orders", body["order_id"]))
 
-    client = KafkaClient(hosts='%s:%s' % (kafka_info["hostname"], kafka_info["port"]))
+    client = KafkaClient(hosts='%s:%d' % (kafka_info["hostname"], kafka_info["port"]))
     topic = client.topics[str.encode(kafka_info["topic"])]
     producer = topic.get_sync_producer()
     msg = {
         "type": "customer_orders",
         "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
-        "payload": reading
+        "payload": body
     }
     msg_str = json.dumps(msg)
     producer.produce(msg_str.encode('utf-8'))
 
     logger.info("Returned event %s response %s"
-                % ("customer orders", reading["order_id"]))
+                % ("customer orders", body["order_id"]))
 
     return NoContent, 201
 
 
-def completed_orders_reading(reading):
+def completed_orders_reading(body):
 
     logger.info("Received event %s request with a unique id of %s"
-                % ("completed order", reading["order_id"]))
+                % ("completed order", body["order_id"]))
 
-    client = KafkaClient(hosts='%s:%s' % (kafka_info["hostname"], kafka_info["port"]))
+    client = KafkaClient(hosts='%s:%d' % (kafka_info["hostname"], kafka_info["port"]))
     topic = client.topics[str.encode(kafka_info["topic"])]
     producer = topic.get_sync_producer()
     msg = {
         "type": "completed_orders",
         "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
-        "payload": reading
+        "payload": body
     }
     msg_str = json.dumps(msg)
     producer.produce(msg_str.encode('utf-8'))
 
     logger.info("Returned event %s response %s"
-                % ("customer orders", reading["order_id"]))
+                % ("customer orders", body["order_id"]))
 
     return NoContent, 201
 

@@ -8,25 +8,6 @@ info:
     
 paths:
   /readings/customer-orders:
-    post:
-      tags:
-        - devices
-      summary: reports a customer's orders reading
-      operationId:  app.customer_orders_reading
-      description: |
-         Adds a new orders reading to the system
-      responses:
-        '201':
-          description: order created
-        '400':
-          description: 'invalid input, object invalid'
-      requestBody:
-        content:
-          application/json:
-            schema:
-              $ref: '#/components/schemas/CustomerOrdersReading'
-        description: Reading item to add
-        
     get:
       tags:
         - devices
@@ -62,25 +43,6 @@ paths:
                     type: string
 
   /readings/completed-orders:
-    post:
-      tags:
-        - devices
-      summary: reports a completed orders reading
-      operationId:  app.completed_orders_reading
-      description: |
-         Adds a new completed orders reading to the system
-      responses:
-        '201':
-          description: order created
-        '400':
-          description: 'invalid input, object invalid'
-      requestBody:
-        content:
-          application/json:
-            schema:
-              $ref: '#/components/schemas/CompletedOrdersReading'
-        description: Reading item to add
-        
     get:
       tags:
         - devices
