@@ -68,4 +68,4 @@ app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("dcheng-Lab05.yaml", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
-    app.run(port=8100)
+    app.run(port=8110)
